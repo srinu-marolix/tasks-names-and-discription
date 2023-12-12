@@ -1,0 +1,12 @@
+TASKS:
+1]SETUP of aws architecture environment acording to the architecture given [two tasks] :-
+2]calculator application:in this we used nodejs to build the application by cmd npm run start,using dockertool
+3]v-profile jenkins: it is a java application it is build useing maven tool and integrated with ci/cd and deployed in tomcat
+4]hospital management:it is package.json we used nodejs to build it and using code consist dockerfile cicd and build the image&sent it to ecr repo
+5]pooja store application:it is a crproj extenstion project it is build with dotnet by useing docker
+6]E-commerce application:it is an online shopeing application in this we used mysql and php[ html language] to run the application	
+7]SCASA application:it is a crproj extenstion project it is build with dotnet by useing docker
+8]HRMS application:	for clinet we build useing nodejs,for server build we used postgresql and build with python
+9]bricks99:it is java project build with maven we got jar file we build it useing java -jar command
+10]netfilx application:we build it two ways by useing nodejs & yarn
+11]hosiptal management:it is an index.php it mean apache2 useing apacgeforground we deployed the application
